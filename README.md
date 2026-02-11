@@ -1,2 +1,2 @@
 # forest-radionuclide-RIFE
-Unofficial reimplementation of the RIFE forest ecosystem model
+Unofficial reimplementation of the RIFE forest ecosystem model by matlab
